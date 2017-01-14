@@ -3,12 +3,12 @@
 ,Phantom_Shadow,,-1,1,,,,,,,,,,,,,,,,,,Phantom_Shadow,0,, ,,,,,,,,
 ,Sleepy_Fly,1,,,,,,,,,,,,,,,,,,,,Sleepy_Fly,1,,,1,Player_1,,Player_1,,Player_1,,
 ,_KoYoT_,-1,,,1,,,,,,,,,,,,,,,,,_KoYoT_,0,,,2,Player_2,,,,,,
-,KG_Politruk,,,-1,,-1,,,,,,,,,,,,,,,,KG_Politruk,-2,,,,,,,,,,
+,KG_Politruk,,,-1,,-1,-1,,,,,,,,,,,,,,,KG_Politruk,-3,,,,,,,,,,
 ,IncertuS,,,,1,,1,,,,,,,,,,,,,,,IncertuS,2,,,3,Player_3,,,,,,
-,Amonagil,,,,,-1,,,,,,,,,,,,,,,,Amonagil,-1,,,4,Player_4,,Player_4,,,,
+,Amonagil,,,,1,-1,,,,,,,,,,,,,,,,Amonagil,0,,,4,Player_4,,Player_4,,,,
 ,Max_B,,,,,,,,0,,,,,,,,,,,,,Max_B,0,,,,,,,,,,
-,Dato,,,,,,,0,,,,,,,,,,,,,,Dato,0,,,5,Player_5,,Player_5,,Player_5,,Player_5
-,Ko3ak_CIPKO,,,,,,,,,,1,,,,,,,,,,,Ko3ak_CIPKO,1,,,6,Player_6,,,,,,
+,Dato,,,,,,,0,,1,,,,,,,,,,,,Dato,1,,,5,Player_5,,Player_5,,Player_5,,Player_5
+,Ko3ak_CIPKO,,,,,,,,-1,,1,,,,,,,,,,,Ko3ak_CIPKO,0,,,6,Player_6,,,,,,
 ,mihail_fernyuk,,,,,,,,,-1,,,,,,,,,,,,mihail_fernyuk,-1,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,0,0,,,7,Player_7,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,0,0,,,8,Player_8,,Player_8,,,,
